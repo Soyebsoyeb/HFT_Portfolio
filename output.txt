@@ -1,0 +1,3365 @@
+Initializing Advanced HFT Portfolio System...
+===== HFT PORTFOLIO MONITOR =====
+Frame: 1
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 2 | Latency: 0.712ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 3 | Latency: 0.662ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 4 | Latency: 0.674ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 5 | Latency: 0.625ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 6 | Latency: 0.606ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 7 | Latency: 0.666ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 8 | Latency: 0.650ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 9 | Latency: 0.627ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 10 | Latency: 0.616ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 11 | Latency: 0.600ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 12 | Latency: 0.673ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 13 | Latency: 0.726ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 14 | Latency: 0.722ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 15 | Latency: 0.701ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 16 | Latency: 0.693ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 17 | Latency: 0.677ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 18 | Latency: 0.668ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 19 | Latency: 0.688ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 20 | Latency: 0.684ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 21 | Latency: 0.677ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $0.00
+Total Delta: 0.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $-0.00 | VaR 99%: $-0.00
+ES 95%: $-0.00 | ES 99%: $-0.00
+Stress Loss (5σ): $0.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 0.00 | Vol: 0.20 | MV: $0.00 | PnL: $0.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 0.00 | Vol: 0.25 | MV: $0.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+
+ACTIVE ORDERS:
+GOOGL SELL 10 @ $2810.00 [ORD_2_1760734013610]
+AAPL BUY 100 @ $150.00 [ORD_1_1760734013610]
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 22 | Latency: 0.685ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2982.48 | VaR 99%: $4013.71
+ES 95%: $3703.81 | ES 99%: $5091.99
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 23 | Latency: 0.675ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3012.70 | VaR 99%: $4099.11
+ES 95%: $3820.47 | ES 99%: $5080.93
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 24 | Latency: 0.693ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2911.26 | VaR 99%: $4144.09
+ES 95%: $3681.24 | ES 99%: $4947.49
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 25 | Latency: 0.687ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2970.09 | VaR 99%: $4270.95
+ES 95%: $3758.65 | ES 99%: $4817.78
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 26 | Latency: 0.694ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2820.40 | VaR 99%: $3848.78
+ES 95%: $3625.86 | ES 99%: $4760.85
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 27 | Latency: 0.686ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3075.57 | VaR 99%: $4237.92
+ES 95%: $3870.33 | ES 99%: $4920.36
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 28 | Latency: 0.684ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2801.57 | VaR 99%: $3971.22
+ES 95%: $3542.22 | ES 99%: $4532.72
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 29 | Latency: 0.689ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2985.50 | VaR 99%: $4319.32
+ES 95%: $3779.86 | ES 99%: $4952.93
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 30 | Latency: 0.707ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2863.05 | VaR 99%: $3887.18
+ES 95%: $3493.28 | ES 99%: $4387.80
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 31 | Latency: 0.701ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3050.99 | VaR 99%: $4417.44
+ES 95%: $3856.60 | ES 99%: $5111.40
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 32 | Latency: 0.693ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2866.75 | VaR 99%: $3884.94
+ES 95%: $3523.30 | ES 99%: $4536.48
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 33 | Latency: 0.688ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2700.30 | VaR 99%: $3739.07
+ES 95%: $3329.05 | ES 99%: $4289.11
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 34 | Latency: 0.687ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2977.62 | VaR 99%: $3791.88
+ES 95%: $3543.14 | ES 99%: $4388.79
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 35 | Latency: 0.719ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2802.00 | VaR 99%: $3833.91
+ES 95%: $3578.94 | ES 99%: $4603.80
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 36 | Latency: 0.715ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2920.43 | VaR 99%: $3870.75
+ES 95%: $3531.84 | ES 99%: $4382.43
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 37 | Latency: 0.712ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2915.35 | VaR 99%: $4028.16
+ES 95%: $3582.40 | ES 99%: $4596.83
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 38 | Latency: 0.707ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2758.05 | VaR 99%: $4246.91
+ES 95%: $3554.43 | ES 99%: $4672.07
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 39 | Latency: 0.704ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2907.83 | VaR 99%: $3931.18
+ES 95%: $3539.58 | ES 99%: $4516.13
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 40 | Latency: 0.700ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3239.76 | VaR 99%: $4504.42
+ES 95%: $3985.28 | ES 99%: $4870.55
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 41 | Latency: 0.702ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3111.10 | VaR 99%: $4106.74
+ES 95%: $3771.28 | ES 99%: $4674.52
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 42 | Latency: 0.697ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2826.07 | VaR 99%: $4001.68
+ES 95%: $3559.62 | ES 99%: $4673.24
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 43 | Latency: 0.694ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2987.74 | VaR 99%: $4259.53
+ES 95%: $3766.37 | ES 99%: $4988.93
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 44 | Latency: 0.691ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2853.47 | VaR 99%: $4326.65
+ES 95%: $3752.16 | ES 99%: $5006.74
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 45 | Latency: 0.700ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2660.33 | VaR 99%: $4168.88
+ES 95%: $3498.73 | ES 99%: $4790.43
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 46 | Latency: 0.696ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3119.30 | VaR 99%: $4564.66
+ES 95%: $3922.86 | ES 99%: $4894.60
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 47 | Latency: 0.694ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3022.36 | VaR 99%: $4480.27
+ES 95%: $3807.89 | ES 99%: $4924.53
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 48 | Latency: 0.694ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2914.71 | VaR 99%: $4197.50
+ES 95%: $3758.43 | ES 99%: $4883.74
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 49 | Latency: 0.695ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2758.04 | VaR 99%: $3840.99
+ES 95%: $3453.00 | ES 99%: $4311.16
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 50 | Latency: 0.692ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2899.78 | VaR 99%: $4270.24
+ES 95%: $3674.94 | ES 99%: $4692.63
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 51 | Latency: 0.690ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3039.45 | VaR 99%: $4256.20
+ES 95%: $3805.43 | ES 99%: $5297.49
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 52 | Latency: 0.697ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2838.76 | VaR 99%: $3982.37
+ES 95%: $3589.40 | ES 99%: $4837.71
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 53 | Latency: 0.694ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3109.25 | VaR 99%: $4515.74
+ES 95%: $3938.51 | ES 99%: $4849.09
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 54 | Latency: 0.693ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2724.72 | VaR 99%: $3819.55
+ES 95%: $3419.40 | ES 99%: $4359.29
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 55 | Latency: 0.695ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3217.09 | VaR 99%: $4197.80
+ES 95%: $3870.28 | ES 99%: $4974.60
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 56 | Latency: 0.696ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2911.32 | VaR 99%: $3886.47
+ES 95%: $3624.37 | ES 99%: $4563.44
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 57 | Latency: 0.694ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2854.37 | VaR 99%: $3843.67
+ES 95%: $3570.28 | ES 99%: $4711.05
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 58 | Latency: 0.697ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2921.95 | VaR 99%: $4042.10
+ES 95%: $3651.78 | ES 99%: $4725.75
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 59 | Latency: 0.695ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2957.14 | VaR 99%: $4118.87
+ES 95%: $3637.72 | ES 99%: $4585.38
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 60 | Latency: 0.692ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2837.46 | VaR 99%: $3721.71
+ES 95%: $3379.30 | ES 99%: $4325.23
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 61 | Latency: 0.690ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2731.94 | VaR 99%: $4025.94
+ES 95%: $3552.89 | ES 99%: $4499.20
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 62 | Latency: 0.689ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2825.45 | VaR 99%: $3924.45
+ES 95%: $3676.96 | ES 99%: $5020.22
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 63 | Latency: 0.690ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2914.71 | VaR 99%: $4326.23
+ES 95%: $3684.93 | ES 99%: $4756.66
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 64 | Latency: 0.689ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3096.47 | VaR 99%: $4306.34
+ES 95%: $3900.65 | ES 99%: $5093.66
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 65 | Latency: 0.686ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2698.70 | VaR 99%: $4041.95
+ES 95%: $3547.84 | ES 99%: $4618.36
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 66 | Latency: 0.683ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2919.14 | VaR 99%: $3863.13
+ES 95%: $3541.91 | ES 99%: $4586.01
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 67 | Latency: 0.680ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2875.78 | VaR 99%: $3920.44
+ES 95%: $3522.56 | ES 99%: $4442.75
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 68 | Latency: 0.682ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2997.39 | VaR 99%: $4096.26
+ES 95%: $3704.01 | ES 99%: $4795.21
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 69 | Latency: 0.683ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2927.36 | VaR 99%: $4345.47
+ES 95%: $3738.17 | ES 99%: $4541.70
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 70 | Latency: 0.681ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2763.37 | VaR 99%: $4025.86
+ES 95%: $3540.28 | ES 99%: $4503.20
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 71 | Latency: 0.679ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2778.65 | VaR 99%: $4127.09
+ES 95%: $3678.13 | ES 99%: $4763.69
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 72 | Latency: 0.679ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3067.42 | VaR 99%: $4220.42
+ES 95%: $3792.46 | ES 99%: $4882.95
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 73 | Latency: 0.676ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2733.75 | VaR 99%: $3856.31
+ES 95%: $3419.85 | ES 99%: $4233.62
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 74 | Latency: 0.681ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2891.12 | VaR 99%: $4213.47
+ES 95%: $3668.40 | ES 99%: $4757.40
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 75 | Latency: 0.679ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2860.99 | VaR 99%: $4061.82
+ES 95%: $3636.20 | ES 99%: $4927.66
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 76 | Latency: 0.678ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2818.74 | VaR 99%: $4069.78
+ES 95%: $3628.98 | ES 99%: $4704.14
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 77 | Latency: 0.677ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2992.59 | VaR 99%: $4201.67
+ES 95%: $3834.10 | ES 99%: $5158.38
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 78 | Latency: 0.679ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3125.06 | VaR 99%: $4233.77
+ES 95%: $3884.33 | ES 99%: $5008.03
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 79 | Latency: 0.678ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3147.52 | VaR 99%: $4152.65
+ES 95%: $3829.14 | ES 99%: $4744.94
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 80 | Latency: 0.679ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2964.68 | VaR 99%: $4133.59
+ES 95%: $3625.39 | ES 99%: $4534.77
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 81 | Latency: 0.679ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2980.95 | VaR 99%: $3982.93
+ES 95%: $3652.66 | ES 99%: $4881.78
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 82 | Latency: 0.678ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2833.77 | VaR 99%: $4103.68
+ES 95%: $3677.75 | ES 99%: $4827.72
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 83 | Latency: 0.676ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2726.44 | VaR 99%: $3927.23
+ES 95%: $3600.33 | ES 99%: $4667.87
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 84 | Latency: 0.676ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2904.36 | VaR 99%: $4089.71
+ES 95%: $3522.30 | ES 99%: $4431.92
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 85 | Latency: 0.674ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2854.02 | VaR 99%: $4056.30
+ES 95%: $3663.95 | ES 99%: $4752.04
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 86 | Latency: 0.679ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3046.24 | VaR 99%: $4019.69
+ES 95%: $3753.55 | ES 99%: $4899.26
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 87 | Latency: 0.677ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2927.69 | VaR 99%: $4061.34
+ES 95%: $3689.34 | ES 99%: $4653.77
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 88 | Latency: 0.677ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2878.33 | VaR 99%: $4179.05
+ES 95%: $3702.60 | ES 99%: $4629.34
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 89 | Latency: 0.675ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2972.48 | VaR 99%: $3840.44
+ES 95%: $3583.61 | ES 99%: $4445.80
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 90 | Latency: 0.675ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2948.47 | VaR 99%: $4127.16
+ES 95%: $3783.23 | ES 99%: $4975.01
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 91 | Latency: 0.677ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2911.61 | VaR 99%: $3986.68
+ES 95%: $3585.23 | ES 99%: $4655.25
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 92 | Latency: 0.675ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3267.63 | VaR 99%: $4747.86
+ES 95%: $4101.31 | ES 99%: $5229.07
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 93 | Latency: 0.674ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2936.60 | VaR 99%: $3993.12
+ES 95%: $3716.71 | ES 99%: $4722.60
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 94 | Latency: 0.673ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2908.52 | VaR 99%: $4182.22
+ES 95%: $3761.26 | ES 99%: $4935.24
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 95 | Latency: 0.672ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2836.59 | VaR 99%: $4237.90
+ES 95%: $3643.51 | ES 99%: $4818.95
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 96 | Latency: 0.670ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2887.43 | VaR 99%: $3951.75
+ES 95%: $3554.52 | ES 99%: $4597.65
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 97 | Latency: 0.673ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2913.81 | VaR 99%: $4019.10
+ES 95%: $3614.97 | ES 99%: $4426.13
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 98 | Latency: 0.672ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3050.89 | VaR 99%: $4434.33
+ES 95%: $3897.96 | ES 99%: $4949.28
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 99 | Latency: 0.671ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3035.51 | VaR 99%: $3900.41
+ES 95%: $3614.67 | ES 99%: $4481.79
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 100 | Latency: 0.668ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3019.47 | VaR 99%: $4304.41
+ES 95%: $3885.76 | ES 99%: $5122.07
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 101 | Latency: 0.666ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2937.73 | VaR 99%: $4202.64
+ES 95%: $3708.02 | ES 99%: $4719.80
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 102 | Latency: 0.667ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2923.31 | VaR 99%: $3955.24
+ES 95%: $3646.65 | ES 99%: $4740.11
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 103 | Latency: 0.668ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2968.11 | VaR 99%: $4131.38
+ES 95%: $3637.99 | ES 99%: $4565.63
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 104 | Latency: 0.667ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3001.31 | VaR 99%: $4280.21
+ES 95%: $3796.52 | ES 99%: $5072.46
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 105 | Latency: 0.667ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2786.01 | VaR 99%: $3707.29
+ES 95%: $3417.46 | ES 99%: $4314.30
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 106 | Latency: 0.664ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2719.85 | VaR 99%: $3870.23
+ES 95%: $3505.49 | ES 99%: $4500.77
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 107 | Latency: 0.664ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2882.11 | VaR 99%: $3919.94
+ES 95%: $3521.65 | ES 99%: $4393.94
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 108 | Latency: 0.665ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2905.65 | VaR 99%: $4192.20
+ES 95%: $3711.15 | ES 99%: $4790.54
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 109 | Latency: 0.665ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2819.99 | VaR 99%: $4279.15
+ES 95%: $3655.35 | ES 99%: $4829.77
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 110 | Latency: 0.664ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2851.74 | VaR 99%: $3885.71
+ES 95%: $3517.29 | ES 99%: $4439.09
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 111 | Latency: 0.664ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2855.26 | VaR 99%: $4417.67
+ES 95%: $3742.84 | ES 99%: $4928.40
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 112 | Latency: 0.663ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2950.95 | VaR 99%: $4256.26
+ES 95%: $3813.39 | ES 99%: $4814.59
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 113 | Latency: 0.661ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2927.84 | VaR 99%: $3844.31
+ES 95%: $3542.46 | ES 99%: $4501.19
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 114 | Latency: 0.663ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2851.18 | VaR 99%: $3983.31
+ES 95%: $3597.21 | ES 99%: $4572.14
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 115 | Latency: 0.662ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2973.84 | VaR 99%: $4316.48
+ES 95%: $3709.45 | ES 99%: $4920.07
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 116 | Latency: 0.661ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2920.93 | VaR 99%: $4327.84
+ES 95%: $3702.71 | ES 99%: $4952.00
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 117 | Latency: 0.661ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $3114.50 | VaR 99%: $4210.97
+ES 95%: $3885.30 | ES 99%: $5067.66
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 118 | Latency: 0.660ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2865.10 | VaR 99%: $4213.34
+ES 95%: $3645.19 | ES 99%: $4781.72
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+===== HFT PORTFOLIO MONITOR =====
+Frame: 119 | Latency: 0.662ms
+
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2945.17 | VaR 99%: $4039.14
+ES 95%: $3670.59 | ES 99%: $4790.00
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+
+Initiating shutdown...
+
+====================================================================================================
+ADVANCED PORTFOLIO REPORT
+====================================================================================================
+PORTFOLIO SUMMARY:
+Total Value: $43000.00
+Total Delta: 110.00 | Gamma: 0.00 | Vega: $0.00 | Theta: $0.00/day
+
+RISK METRICS:
+VaR 95%: $2898.79 | VaR 99%: $4085.11
+ES 95%: $3596.85 | ES 99%: $4474.65
+Stress Loss (5σ): $46750.00
+
+DETAILED POSITIONS:
+PUT GOOGL_2800P | Underlying: GOOGL | Strike: $2800.00 | Expiry: 0.200y | Premium: $104.140 | Qty: 0.000 | IV: 0.2200
+  Option GOOGL_2800P | Delta: -0.4642 | Gamma: 0.0014 | Vega: $4.9754 | Theta: $-0.8266/day
+CALL AAPL_150C | Underlying: AAPL | Strike: $150.00 | Expiry: 0.100y | Premium: $5.065 | Qty: 0.000 | IV: 0.2600
+  Option AAPL_150C | Delta: 0.5261 | Gamma: 0.0323 | Vega: $0.1888 | Theta: $-0.0713/day
+STOCK MSFT | Price: $300.00 | Qty: 0.00 | Vol: 0.22 | MV: $0.00 | PnL: $0.00
+  Stock MSFT | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK GOOGL | Price: $2800.00 | Qty: 10.00 | Vol: 0.20 | MV: $28000.00 | PnL: $28000.00
+  Stock GOOGL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+STOCK AAPL | Price: $150.00 | Qty: 100.00 | Vol: 0.25 | MV: $15000.00 | PnL: $0.00
+  Stock AAPL | Delta: 1.0 | Gamma: 0.0 | Vega: 0.0
+====================================================================================================
+HFT Portfolio System shutdown complete.
